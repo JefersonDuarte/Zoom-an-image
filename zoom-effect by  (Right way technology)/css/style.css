@@ -1,15 +1,18 @@
-h4{
-    font-size:20px;position: fixed;left: 60%;
+h4 {
+    font-size: 20px;
+    position: fixed;
+    left: 60%;
     color: #2a70ad;
     text-align: center;
     text-transform: capitalize;
 }
 
- #b{
+#b {
     width: 500px;
-    }
- 
- p{
+}
+
+p {
     color: #4b9303;
-    font-weight: 1000;font-size: 25px;
+    font-weight: 1000;
+    font-size: 25px;
 }
